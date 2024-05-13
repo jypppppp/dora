@@ -1,0 +1,49 @@
+
+EnvironmentNameNotFound: Could not find conda environment: llama7B
+You can list all discoverable environments with `conda info --envs`.
+
+
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/finetune.py", line 13, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/boolq.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/piqa.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/social_i_qa.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/hellaswag.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/winogrande.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/ARC-Challenge.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/ARC-Easy.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
+tee: ./finetuned_result/dora_qv_r32/openbookqa.txt: No such file or directory
+Traceback (most recent call last):
+  File "/gpfs/users/a1906566/2024/DoRA/commonsense_reasoning/commonsense_evaluate.py", line 16, in <module>
+    import fire
+ModuleNotFoundError: No module named 'fire'
